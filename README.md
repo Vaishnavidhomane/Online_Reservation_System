@@ -1,7 +1,5 @@
 # Online Reservation System (Java)
 
-A console-based train ticket reservation system built during my Java Development Internship at Oasis Infobyte.
-
 ## Features
 - User registration and login
 - Train mapping — select from a list of available train numbers, with train name auto-filled
